@@ -1,3 +1,5 @@
+This repository has been migrated. For ongoing updates, please see https://github.com/thinkjs/thinkjs/tree/master/packages/think-websocket-ws.
+
 # think-websocket-ws
 [![npm](https://img.shields.io/npm/v/think-websocket-ws.svg?style=flat-square)](https://www.npmjs.com/package/think-websocket-ws)
 
